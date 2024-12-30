@@ -1,0 +1,13 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - Pee N Pee - Homebrewed DnD with Omo Elements & rules.md
+  - Character Bladder Rules.md
+  - Holders Campaign Rules.md
+  - Pissers Campaign Rules.md
+  - Bladder Buster Campaign Rules.md
+  - Homebrewed material.md
+  - LICENSE.md
