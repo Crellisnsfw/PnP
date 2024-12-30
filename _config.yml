@@ -12,4 +12,4 @@ include:
   - Homebrewed material.md
   - LICENSE.md
 
-  theme: jekyll-theme-midnight
+  theme: jekyll-theme-tactile
