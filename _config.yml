@@ -11,3 +11,5 @@ include:
   - Bladder Buster Campaign Rules.md
   - Homebrewed material.md
   - LICENSE.md
+
+  theme: jekyll-theme-midnight
